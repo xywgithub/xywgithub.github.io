@@ -4,23 +4,23 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Rehgar"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   The harder, more fortunate
 
-email: a-mail@mail.mail
+email: yxw1280355133@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'smile bean'
+author: 'small_yin'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://xywgithub.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@dirkfabisch'
@@ -31,7 +31,7 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/yxw1280355133
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -45,7 +45,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	http://xywgithub.github.io
     desc:	Fork me on github
     share_url:
     share_title:
