@@ -37,10 +37,19 @@ Examples for different formats and css features
 2. two
 3. three
 
-##unorderd lists
-- Apple
-- Banana
-- Plum
+##清单
+-计算机程序的构造和解释（SICP）
+-计算机系统要素
+3.深入理解计算机系统（SCAPP）
+4.C程序设计语言
+5.UNIX编程环境
+6.UNIX编程艺术
+7.数据结构与算法分析
+8.算法导论（此本书理解会有点难度，可先读《算法》这本书过渡）
+9.编程珠玑
+10.程序设计实践
+11.C++Primer
+12.程序设计语言
 
 #Links
 This is an [example link](http://example.com/ "With a Title").
