@@ -7,6 +7,7 @@ tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
+##清单
 -计算机程序的构造和解释（SICP）
 -计算机系统要素
 3.深入理解计算机系统（SCAPP）
