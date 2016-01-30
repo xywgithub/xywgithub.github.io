@@ -21,7 +21,3 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 10.程序设计实践
 11.C++Primer
 12.程序设计语言
-
-> - Apple
-> - Banana
-> - Plum
