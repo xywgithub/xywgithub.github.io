@@ -1,5 +1,5 @@
 ---
-layout: _post
+layout: _posts
 title:  "程序员必读书籍"
 date:   2014-11-30 14:34:25
 categories: 程序员必读书籍
